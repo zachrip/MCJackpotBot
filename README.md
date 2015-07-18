@@ -24,4 +24,6 @@ In order to run this bot you need to add a config file in the root directory cal
 	}
 ```
 
+Then run `npm install`.
+
 Then run the bot with `node index.js` within the root directory.
