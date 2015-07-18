@@ -23,3 +23,5 @@ In order to run this bot you need to add a config file in the root directory cal
 		password: '' //password for your account
 	}
 ```
+
+Then run the bot with `node index.js` within the root directory.
