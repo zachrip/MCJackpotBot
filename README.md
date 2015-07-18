@@ -1,5 +1,7 @@
 ## MCJackpotBot
 
+***This project is under construction and may change a lot very quickly, please take this into account***
+
 In order to run this bot you need to add a config file in the root directory called `config.js` with the following code:
 
 ```javascript
